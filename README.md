@@ -1,16 +1,14 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Técnicas de Gerenciamento de Tempo: Maximizando a Produtividade no Trabalho
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um mini ebook interamente criado utilizando ChatGPT sobre técnicas de gerenciamento de tempo e produtividade no trabalho. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Eu criei um esqueleto do livro e fui pedindo para que o GPT destrinchasse cada tópico do esqueleto do livro. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Mini Ebook](https://github.com/jotamath/lab-natty-or-not/blob/main/MiniEbook.md)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
